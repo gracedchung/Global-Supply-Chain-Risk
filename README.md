@@ -23,9 +23,9 @@ Python: Pandas, NumPy, Scikit-learn
 3. Disruption Rate vs. Avg Lead Days
 
 ## Suggestions & Optimization
-###Routing Optimization
+### Routing Optimization
   Optimize a route model that priotizes geopolotical risks over shortest transit time.
-###Transport Mode Optimization
+### Transport Mode Optimization
 Use Air for urgent shipments and Sea freight for slow non-urgent shipments. 
-###Predictive Risk Scoring
+### Predictive Risk Scoring
   Creating a risk scoring model based off geopolotical score, weather, shipment routes can promote proactivity. 
