@@ -1,8 +1,8 @@
 # Global Supply Chain Risk Analysis 2024-2025
 ## Project Description:
-Global trade has become increasingly volatile due to shifting geopolitical dynamics and climate-driven weather disruptions. These uncertainties challenge logistics professionals striving to maintain efficient, “just-in-time” supply chains.
+Global trade has become increasingly volatile due to factors such as shifting geopolitical dynamics and/or climate-driven weather disruptions. These uncertainties challenge logistics professionals striving to maintain efficient, “just-in-time” supply chain operations. 
 
-This project analyzes a dataset of 5,000 international shipments to understand how various risk factors impact supply chain performance. While disruptions are often unavoidable, they can significantly increase lead times, delay deliveries, and reduce overall operational efficiency.
+This project analyzes a dataset of 5,000 international shipments over 2 years to understand how various risk factors impact supply chain performance. While disruptions are often unavoidable, they can significantly increase lead times, delay deliveries, and reduce overall operational efficiency.
 
 By identifying key drivers of disruption, this analysis aims to support more informed decision-making and improve supply chain resilience through proactive planning and route optimization.
 ### Objective:
@@ -44,8 +44,8 @@ Python: Pandas, NumPy, Scikit-learn
 
 ## Suggestions & Optimization
 ### Routing Optimization
-  Optimize a route model that priotizes geopolotical risks over shortest transit time.
+  Optimize a route model that prioritizes geopolitical risks over shortest transit time.
 ### Transport Mode Optimization
 Use Air for urgent shipments and Sea freight for slow non-urgent shipments. 
 ### Predictive Risk Scoring
-  Creating a risk scoring model based off geopolotical score, weather, shipment routes can promote proactivity. 
+  Creating a risk scoring model based on geopolitical score, weather, and shipment routes can promote proactivity. 
