@@ -32,15 +32,15 @@ Power BI: DAX Writing, calculated columns, data modeling, data visualization
 Python: Pandas, NumPy, Scikit-learn
 ## Key Insights: 
 1. Transportation Mode (Transport, Product, Weather Condition)
- Disruption rates vary significantly by transport mode
- Air freight shows higher disruption frequency, while sea freight has longer lead times
- Certain product categories and weather conditions are more prone to disruption
-2. Region and Regional Risk
-  Specific ports and routes act as bottlenecks
-  Higher geopolitical risk scores correlate with increased disruption rates
-3. Lead Time Impact
-  Increased disruptions are associated with longer average lead times
-  Inefficiencies vary by route and transport mode
+  Disruption rates vary significantly by transport mode
+  Air freight shows higher disruption frequency, while sea freight has longer lead times
+  Certain product categories and weather conditions are more prone to disruption
+3. Region and Regional Risk
+   Specific ports and routes act as bottlenecks
+   Higher geopolitical risk scores correlate with increased disruption rates
+4. Lead Time Impact
+   Increased disruptions are associated with longer average lead times
+   Inefficiencies vary by route and transport mode
 
 ## Suggestions & Optimization
 ### Routing Optimization
